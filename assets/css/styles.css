@@ -1,0 +1,15 @@
+/* FONT */
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap");
+
+/* COMPONENTS */
+
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
+@import "./reuse-code.css";
+@import "./responsive-background.css";
+@import "./responsive-elements.css";
+
+
+
